@@ -120,6 +120,11 @@ ruby morse_code_decoder.rb
 - GitHub: [@jicamargo](https://github.com/jicamargo)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/jorgecamargog/?locale=en_US)
 
+👤 **Mariano Benjamin**
+
+- GitHub: [@githubhandle](https://github.com/benja27)
+- LinkedIn: [LinkedIn](http://www.linkedin.com/in/BenjaMendez2699)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
