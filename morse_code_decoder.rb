@@ -1,5 +1,3 @@
-# frozen_string_literal: false
-
 def decode_char(morse_char)
   morse_code_dictionary = {
     '.-' => 'A', '-...' => 'B', '-.-.' => 'C', '-..' => 'D', '.' => 'E', '..-.' => 'F',
