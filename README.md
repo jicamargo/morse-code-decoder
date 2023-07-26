@@ -70,7 +70,7 @@ The Morse Code Decoder is a Ruby-based program that allows users to convert Mors
 
 In order to run this project you need:
 
--- Step 1: Clone the Repository
+- Step 1: Clone the Repository
 
 Open your terminal or command prompt.
 Change to the directory where you want to store the project.
@@ -79,7 +79,7 @@ Clone the Morse Code Decoder repository from GitHub using the following command:
 git clone https://github.com/your-username/morse-code-decoder.git
 ```
 
-Step 2: Install Ruby
+- Step 2: Install Ruby
 
 Ensure you have Ruby installed on your system. You can check by running:
 ```
@@ -135,8 +135,6 @@ ruby morse_code_decoder.rb
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Sound feedback]:**
   One exciting future feature that could be added to the Morse Code Decoder is sound feedback. This feature would provide an audible representation of the Morse code input as it is being decoded. As the user enters Morse code dots and dashes, the program could play corresponding short and long beeps or tones, respectively.
